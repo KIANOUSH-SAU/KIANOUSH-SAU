@@ -1,5 +1,5 @@
 ## Hi, I'm KIA 👋
-I'm an amateur coder striving to be better (and a humble one)
+I'm an amateur web developer striving to be better.
 
 - ⚡ I like React
 
