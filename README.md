@@ -5,4 +5,4 @@ I'm an amateur coder striving to be better (and a humble one)
 
 
 
-[![Kia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIANOUSH-SAU&show_icons=true&theme=ALGOLİA)]
+![Kia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIANOUSH-SAU&show_icons=true&theme=algolia)
