@@ -19,3 +19,4 @@ I'm an amateur web developer striving to be better.
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/gsap-88CE02?style=flat-square&logo=greensock&logoColor=white)
