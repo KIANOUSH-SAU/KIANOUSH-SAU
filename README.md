@@ -1,21 +1,26 @@
-<!-- ===== HEADER BANNER ===== -->
+<!--
+  Profile README for github.com/KIANOUSH-SAU
+  Paste into a repo named exactly "KIANOUSH-SAU" (same as your username).
+  Every image here is served by shields.io or komarev — reliable services that
+  render consistently. No vercel/heroku stat cards that can go down.
+-->
+
+<h1 align="center">Hi, I'm Kianoush 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=200&section=header&text=Kianoush%20Seddighpour&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20.NET%20%2B%20React&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+  <b>Full-Stack Developer</b> &nbsp;•&nbsp; ASP.NET Core + React &nbsp;•&nbsp; AI Integration
 </p>
 
-<!-- ===== TYPING SUBTITLE ===== -->
 <p align="center">
-  <a href="https://github.com/KIANOUSH-SAU">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+ASP.NET+Core+%2B+React;I+build+and+ship+real+apps.;AI+integration+%7C+REST+APIs+%7C+TypeScript;Computer+Engineering+%40+Sakarya+University" alt="Typing SVG" />
-  </a>
+  <i>I build and ship real apps — from a .NET + SQL backend to a polished React front end.</i>
 </p>
 
-<!-- ===== BADGES ROW ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KIANOUSH-SAU&label=Profile%20views&color=512BD4&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/kianoush-seddighpour"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seddighpour.kianoush@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Remote-2EA44F?style=flat-square" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=KIANOUSH-SAU&label=Profile%20views&color=512BD4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/KIANOUSH-SAU?label=Followers&style=for-the-badge&logo=github&color=512BD4&labelColor=20232A" alt="followers" />
+  <a href="https://www.linkedin.com/in/kianoush-seddighpour"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:seddighpour.kianoush@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Remote-2EA44F?style=for-the-badge" alt="Open to work" />
 </p>
 
 ---
@@ -24,17 +29,17 @@
 
 ```typescript
 const kia = {
-  role:        "Full-Stack Developer",
-  stack:       ["ASP.NET Core", "C#", "EF Core", "React", "React Native", "TypeScript"],
-  building:    "AI-powered apps & live CRUD systems that real people use",
-  studying:    "B.Sc. Computer Engineering @ Sakarya University 🇹🇷",
-  languages:   ["English (C2 / IELTS 8.5)", "Persian (native)", "Turkish"],
-  currently:   "Going deeper on ASP.NET Core Web APIs + open source",
-  openTo:      ["internships", "remote", "open-source collaboration"],
+  role:      "Full-Stack Developer",
+  stack:     ["ASP.NET Core", "C#", "EF Core", "React", "React Native", "TypeScript"],
+  building:  "AI-powered apps & live CRUD systems that real people use",
+  studying:  "B.Sc. Computer Engineering @ Sakarya University 🇹🇷",
+  languages: ["English (C2 / IELTS 8.5)", "Persian (native)", "Turkish"],
+  currently: "Going deeper on ASP.NET Core Web APIs + open source",
+  openTo:    ["internships", "remote", "open-source collaboration"],
 };
 ```
 
-I ship products end to end — from a .NET + SQL backend to a polished React front end — and I integrate AI (Gemini API) into real mobile apps. Fluent, native-level English means I work smoothly with international, English-speaking teams.
+I ship products end to end and integrate AI (Gemini API) into real mobile apps. Native-level English (C2) means I work smoothly with international, English-speaking teams.
 
 ---
 
@@ -70,28 +75,23 @@ I ship products end to end — from a .NET + SQL backend to a polished React fro
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-| :------ | :----------- | :---- |
-| 🤖 **[stylistAI](https://github.com/KIANOUSH-SAU/stylistAI)** | AI mobile app that suggests hairstyles tailored to you, powered by the Gemini API | `React Native` `TypeScript` `Gemini` `Appwrite` `Expo` |
-| 📅 **[lesson-manager](https://github.com/KIANOUSH-SAU/lesson-manager)** | Full-stack CRUD app in live weekly use for scheduling English classes | `React` `Appwrite` `Context API` |
-| 💈 **[BarberShop1.0.1](https://github.com/KIANOUSH-SAU/BarberShop1.0.1)** | Business management system: appointments, services & role-based access | `ASP.NET Core MVC` `EF Core` `SQL` |
+**🤖 [stylistAI](https://github.com/KIANOUSH-SAU/stylistAI)** — AI mobile app that suggests hairstyles tailored to you, powered by the Gemini API.
+`React Native` · `TypeScript` · `Gemini` · `Appwrite` · `Expo`
+&nbsp;![stars](https://img.shields.io/github/stars/KIANOUSH-SAU/stylistAI?style=flat-square&logo=github&color=512BD4)
+![lang](https://img.shields.io/github/languages/top/KIANOUSH-SAU/stylistAI?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/KIANOUSH-SAU/stylistAI?style=flat-square)
 
----
+**📅 [lesson-manager](https://github.com/KIANOUSH-SAU/lesson-manager)** — Full-stack CRUD app in live weekly use for scheduling English classes.
+`React` · `Appwrite` · `Context API`
+&nbsp;![stars](https://img.shields.io/github/stars/KIANOUSH-SAU/lesson-manager?style=flat-square&logo=github&color=512BD4)
+![lang](https://img.shields.io/github/languages/top/KIANOUSH-SAU/lesson-manager?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/KIANOUSH-SAU/lesson-manager?style=flat-square)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KIANOUSH-SAU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIANOUSH-SAU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIANOUSH-SAU&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KIANOUSH-SAU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
+**💈 [BarberShop1.0.1](https://github.com/KIANOUSH-SAU/BarberShop1.0.1)** — Business management system: appointments, services & role-based access.
+`ASP.NET Core MVC` · `EF Core` · `SQL`
+&nbsp;![stars](https://img.shields.io/github/stars/KIANOUSH-SAU/BarberShop1.0.1?style=flat-square&logo=github&color=512BD4)
+![lang](https://img.shields.io/github/languages/top/KIANOUSH-SAU/BarberShop1.0.1?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/KIANOUSH-SAU/BarberShop1.0.1?style=flat-square)
 
 ---
 
@@ -109,8 +109,4 @@ I ship products end to end — from a .NET + SQL backend to a polished React fro
   <a href="https://www.linkedin.com/in/kianoush-seddighpour"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:seddighpour.kianoush@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/KIANOUSH-SAU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:512BD4&height=120&section=footer" width="100%" alt="footer"/>
 </p>
