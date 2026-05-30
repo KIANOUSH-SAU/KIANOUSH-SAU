@@ -80,6 +80,11 @@ I ship products end to end — from a .NET + SQL backend to a polished React fro
 
 ### 📊 GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIANOUSH-SAU&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/KIANOUSH-SAU?label=Followers&style=for-the-badge&logo=github&color=512BD4&labelColor=20232A" alt="followers" />
   <img src="https://komarev.com/ghpvc/?username=KIANOUSH-SAU&label=Profile+Views&color=512BD4&style=for-the-badge" alt="profile views" />
@@ -90,17 +95,6 @@ I ship products end to end — from a .NET + SQL backend to a polished React fro
   <a href="https://github.com/KIANOUSH-SAU/lesson-manager"><img src="https://img.shields.io/github/last-commit/KIANOUSH-SAU/lesson-manager?label=lesson-manager&style=flat-square&logo=github&color=512BD4&labelColor=20232A" alt="lesson-manager activity" /></a>
   <a href="https://github.com/KIANOUSH-SAU/BarberShop1.0.1"><img src="https://img.shields.io/github/last-commit/KIANOUSH-SAU/BarberShop1.0.1?label=BarberShop&style=flat-square&logo=github&color=512BD4&labelColor=20232A" alt="BarberShop activity" /></a>
 </p>
-
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KIANOUSH-SAU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIANOUSH-SAU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIANOUSH-SAU&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 
 ---
 
